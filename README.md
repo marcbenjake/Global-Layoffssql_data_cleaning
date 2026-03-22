@@ -12,14 +12,14 @@
 
 This project is a two-part end-to-end data analysis of global layoffs during the COVID-19 pandemic (2020-2023). The dataset contains over 2,000 records across 9 columns, capturing layoff events from companies around the world.
 
-**Part 1 - Data Cleaning** focuses on preparing the raw dataset for analysis by resolving quality issues including duplicates, inconsistent values, null entries, and improper data types.
+**Part 1 - Data Cleaning** focuses on preparing the raw dataset for analysis by resolving quality issues, including duplicates, inconsistent values, null entries, and improper data types.
 
 **Part 2 - Exploratory Data Analysis (EDA)** leverages the cleaned dataset to surface meaningful patterns and trends related to the scale and distribution of global layoffs.
 
 This project was completed in MySQL Workbench, following along with the tutorial series by Alex Freberg (Alex the Analyst), and extended with independent practice and exploration.
 
 **Dataset:** World Layoffs (COVID-19 era, 2020-2023)  
-**Tool:** MySQL / MySQL Workbench  
+**Tool:** SQL Server / SQL Server Management Studio
 **Inspired by:** [Alex the Analyst - YouTube](https://www.youtube.com/@AlexTheAnalyst)
 
 ---
