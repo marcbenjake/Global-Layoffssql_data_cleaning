@@ -28,8 +28,8 @@ This project was completed in MySQL Workbench, following along with the tutorial
 
 | Category | Details |
 |---|---|
-| Database | MySQL |
-| IDE | MySQL Workbench |
+| Database | SQL Server |
+| IDE | SQL Server Management Studio |
 | Key Skills | Data Cleaning, Exploratory Data Analysis, Window Functions, CTEs |
 | Source Control | GitHub |
 
