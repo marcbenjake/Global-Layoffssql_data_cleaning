@@ -73,7 +73,9 @@ WHERE total_laid_off IS NULL
 AND percentage_laid_off IS NULL;
 
 
---Exploratory Data Analysis
+--EXPLORATORY DATA ANALYSIS
+
+
 --Max and Min laid off
 SELECT MAX(total_laid_off), MAX(percentage_laid_off)
 FROM layoffs_staging;
