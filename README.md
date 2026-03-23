@@ -16,7 +16,7 @@ This project is a two-part end-to-end data analysis of global layoffs during the
 
 **Part 2 - Exploratory Data Analysis (EDA)** leverages the cleaned dataset to surface meaningful patterns and trends related to the scale and distribution of global layoffs.
 
-This project was completed in MySQL Workbench, following along with the tutorial series by Alex Freberg (Alex the Analyst), and extended with independent practice and exploration.
+This project was completed in SQL Server Management Studio, following along with the tutorial series by Alex Freberg (Alex the Analyst), and extended with independent practice and exploration.
 
 **Dataset:** World Layoffs (COVID-19 era, 2020-2023)  
 **Tool:** SQL Server / SQL Server Management Studio
